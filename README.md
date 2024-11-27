@@ -15,7 +15,7 @@ Welcome to my Professional Development Portfolio! This repository showcases my a
 
 - **Meta Marketing Science Professional**  
   Instructor: Meta  
-  [View Certificate](Courses/Coursera/Meta/Meta_Marketing_Analytics_Certificate.pdf)
+  [View Certificate](Courses/Coursera/Meta/Meta_Marketing_Analytics_Foundations_Certificate.pdf)
 
 🎓 Academic Achievements
 - **Associate Degree in Computer Science**  
