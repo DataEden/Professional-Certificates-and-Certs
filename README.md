@@ -1,14 +1,28 @@
-## Professional Development Portfolio ##
-**🌟 Welcome to my Professional Development Portfolio! 🌟**
-- This repository showcases my achievements, including certifications, course completions, and academic milestones, reflecting my journey in Data Science, AI/ML, IT, and the Tech field generally.
+# Professional Development Portfolio
 
-📜 Certifications
+**🌟 Welcome to my Professional Development Portfolio! 🌟**
+
+> **Important Update**:  
+> The professional development website previously associated with this repository has been moved to its dedicated repository:  
+> [DataEden Website Repository](https://github.com/DataEden/dataeden-website).  
+> Visit the live site at: [https://dataeden.org](https://dataeden.org).  
+
+---
+
+## Overview
+This repository showcases my achievements, including certifications, course completions, and academic milestones, reflecting my journey in Data Science, AI/ML, IT, and the Tech field generally.
+
+---
+
+## 📜 Certifications
 **Professional Certifications**
 - **AWS Certified Cloud Practitioner**  
   Issued by Amazon Web Services  
   [View Certificate](Certifications/AWS/Certified_Cloud_Practitioner.pdf)
 
-📄 Certificates of Completion
+---
+
+## 📄 Certificates of Completion
 **Coursera**
 - **AI Programming with Python**  
   Issued by: Udacity  
@@ -18,7 +32,9 @@
   Instructor: Meta  
   [View Certificate](Courses/Coursera/Meta/Meta_Marketing_Analytics_Foundations_Certificate.pdf)
 
-🎓 Academic Achievements
+---
+
+## 🎓 Academic Achievements
 - **Associate Degree in Computer Science**  
   Institution: Medgar Evers College (CUNY)  
   [View Diploma](Academic/Associate_Computer_Science.jpg)
