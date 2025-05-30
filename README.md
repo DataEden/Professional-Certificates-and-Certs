@@ -1,9 +1,9 @@
-# Professional Development Portfolio
+# Professional Certificates And Certifications Portfolio
 
-**🌟 Welcome to my Professional Development Portfolio! 🌟**
+**🌟 Welcome to my Professional Certificates And Certifications Portfolio! 🌟**
 
 > **Important Update**:  
-> The professional development website previously associated with this repository has been moved to its dedicated repository:  
+> The Professional Certificates And Certifications Portfolio website previously associated with this repository has been moved to its dedicated repository:  
 > [DataEden Website Repository](https://github.com/DataEden/dataeden-website).  
 > Visit the live site at: [https://dataeden.org](https://dataeden.org).  
 
@@ -13,6 +13,11 @@
 This repository showcases my achievements, including certifications, course completions, and academic milestones, reflecting my journey in Data Science, AI/ML, IT, and the Tech field generally.
 
 ---
+## 📜 Certifications
+**Professional Certifications**
+- **CompTIA A+ IT Technician**  
+  Issued by CompTIA Official Global Skill Certification
+  [View Certificate](Certifications/CompTIA/CompTIA_A+_Cert_Image.png)
 
 ## 📜 Certifications
 **Professional Certifications**
