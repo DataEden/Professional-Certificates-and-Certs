@@ -1,9 +1,9 @@
-# Professional Certificates And Certifications Portfolio
+# Professional Certificates & Certifications Portfolio
 
-**🌟 Welcome to my Professional Certificates And Certifications Portfolio! 🌟**
+**🌟 Welcome to my Professional Certificates & Certifications Portfolio! 🌟**
 
 > **Important Update**:  
-> The Professional Certificates And Certifications Portfolio website previously associated with this repository has been moved to its dedicated repository:  
+> The Professional Certificates & Certifications Portfolio website previously associated with this repository has been moved to its dedicated repository:  
 > [DataEden Website Repository](https://github.com/DataEden/dataeden-website).  
 > Visit the live site at: [https://dataeden.org](https://dataeden.org).  
 
